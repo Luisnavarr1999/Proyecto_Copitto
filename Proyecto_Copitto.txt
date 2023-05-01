@@ -1,0 +1,17 @@
+Crearemos un proyecto sobre una pagina html sobre un Casino llamado Casino Copitto.
+en la pagina web se hablara sobre el eslogan y cosas que se ofreceran en este casino.
+
+
+Historia sobre el casino Copitto:
+
+La historia del restaurante Copitto se remonta a hace más de 20 años, cuando dos amigos italianos, Luis y Robinson,
+decidieron llevar la auténtica cocina italiana a la ciudad en la que habían decidido establecerse.
+
+Al principio, su restaurante era modesto y se encontraba en una pequeña calle del centro de la ciudad, pero pronto se hizo conocido por sus deliciosos platillos y el servicio amable y atento de sus dueños.
+Poco a poco, fueron ganando seguidores y su reputación fue creciendo.
+
+Sin embargo, a pesar de su éxito, Luis y Robinson nunca perdieron su humildad y su pasión por la cocina italiana auténtica.
+Continuaron innovando y mejorando sus platillos, siempre utilizando ingredientes de alta calidad y técnicas de cocina tradicionales.
+
+Con el tiempo, el restaurante Copitto se mudó a un espacio más grande y elegante, pero sus dueños nunca perdieron su esencia humilde y cercana.
+ Siempre estuvieron al pendiente de sus clientes y nunca dejaron de atender personalmente sus mesas, para asegurarse de que la experiencia de sus comensales fuera siempre excepcional.

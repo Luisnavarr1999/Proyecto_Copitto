@@ -1,0 +1,111 @@
+body {
+    background: url('image/fondo1.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+
+.subt{
+    text-align: center;
+}
+
+.Titulo{  
+    text-align: center;
+    background-color: yellow;
+    color: brown;                    
+    border: 5px  brown dotted;
+    border-radius: 5px;                
+}
+
+.Copitto{
+    border: 30px brown solid;
+    border-radius: 10px
+}
+
+.intro{
+    background-color: yellow;                     
+    color: brown;
+}
+
+.intro2{                      
+    background-color: yellow;                       
+    color: brown;
+}
+.intro3{                       
+    background-color: yellow;                       
+    color: brown;
+}
+.intro4{                       
+    background-color: yellow;                        
+    color: brown;
+}
+.intro5{                       
+    background-color: yellow;                        
+    color: brown;
+}
+.Comida{
+    margin: auto;
+    display: block;
+    border: 20px brown solid;
+}
+
+.Comida2{
+    margin: auto;
+    display: block;
+    border: 20px brown solid;
+}
+
+.Vision{
+    background-color: yellow;
+    color: brown;
+    border: 10px brown solid;
+    border-radius: 10px            /* se crea esto para suavisar (redondear bordes)*/
+}
+
+.Vision2{
+    background-color: yellow;
+    color: brown;
+
+}
+
+.Vision3{
+    background-color: yellow;
+    color: brown;
+
+}
+
+.historia{
+    background-color: yellow;
+    text-align: center;
+    color: brown;
+    border: 10px brown solid;
+    border-radius: 10px 
+
+}
+
+.histo{
+    margin: auto;
+    display: block;
+    border: 20px brown solid;
+
+}
+
+.historia1{
+    background-color: yellow;
+    color: brown;
+
+}
+
+.historia2{
+    background-color: yellow;
+    color: brown;
+
+}
+.historia3{
+    background-color: yellow;
+    color: brown;
+
+}
+.historia4{
+    background-color: yellow;
+    color: brown;
+
+}
